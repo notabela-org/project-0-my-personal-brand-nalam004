@@ -2,7 +2,7 @@
 # My Personal Brand
 I designed a personal website showcasing my skills, work experience, and projects. My page will display four sections. 
 
-- An About Section
-- A Projects Section
-- A Work Experience Section
-- A Contact me Section 
+- About Section
+- Projects Section
+- Work Experience Section
+- Contact me Section 
