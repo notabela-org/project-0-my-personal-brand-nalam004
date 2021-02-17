@@ -102,3 +102,77 @@ h1, h2, h3, h4, h5, h6 {
   text-decoration: none;
 }
 
+/* Sections Header */
+
+.section-header h3 {
+  font-size: 36px;
+  color: #7b6d8d;
+  text-align: center;
+  font-weight: 700;
+  position: relative;
+}
+
+.section-header p {
+  text-align: center;
+  margin: auto;
+  font-size: 30px;
+  padding-bottom: 60px;
+  color: #998ea7;
+  width: 50%;
+}
+
+.section-bg {
+  background: #c4d0ce;
+}
+
+/* About */
+
+#about {
+  padding: 80px 0;
+}
+
+#about .about-content {
+  padding-top: 40px;
+}
+
+#about .about-content h2 {
+  color: #7b6d8d;
+  font-weight: 700;
+}
+
+#about .about-content p {
+  color: #998ea7;
+}
+
+/* projects*/
+
+#projects {
+  padding: 80px 0;
+}
+
+#projects h4 {
+  font-weight: 600;
+  font-size: 24px;
+  color: #7b6d8d;
+}
+
+#projects p {
+  color: #998ea7;
+}
+
+/* experience */
+
+#experience {
+  padding: 80px 0;
+}
+
+#experience h4 {
+  font-weight: 600;
+  font-size: 24px;
+  color: #7b6d8d;
+}
+
+#experience ul {
+  color: #998ea7;
+}
+
