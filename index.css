@@ -176,3 +176,26 @@ h1, h2, h3, h4, h5, h6 {
   color: #998ea7;
 }
 
+/* contact */
+
+#contact {
+  padding: 10px 0;
+  font-size: 14px;
+  background: #fff;
+  color: #7b6d8d;
+  text-align: center;
+}
+
+#contact ul {
+  list-style-type: none;
+  color: #998ea7;
+  font-weight: 700;
+  display: block;
+}
+
+.copyright {
+  width: 100%;
+  margin: 2.5em 0 2em 0;
+  font-size: 0.8em;
+  text-align: center;
+}
